@@ -1,0 +1,26 @@
+.bell {
+  margin-right: 10px;
+  align-self: flex-end;
+  width: 60px;
+}
+.bell h5 {
+  text-align: justify;
+  margin-top: 8px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 5px 5px 10px #cfcccc;
+  height: 90px;
+}
+.logo-container {
+  width: 150px;
+  display: flex;
+  align-items: center;
+  background-color: #fff; /* Set a background color for the container */
+  padding-left: 5px;
+}
+.logo-container img {
+  max-width: 100%; /* Ensure the image fits within the container */
+  max-height: 100%;
+}
